@@ -14,12 +14,10 @@ A **dynamic quiz application** built using **React.js**. This app allows users t
 3. ✅ **Correct answers turn green** | ❌ **Wrong answers turn red**.  
 4. 🔄 Click **"Proceed to Next"** to move to the next question.  
 
-## 📷 Preview  
-![Quiz App Preview](./image.png)  
 
 ## 🖥️ Tech Stack  
 - **React.js** – Frontend framework for dynamic UI.  
-- **CSS** – Styled components for a sleek dark theme.  
+- **TailwindCSS** – Styled components for a sleek UI.  
 
 ## 📌 Use Cases  
 ✅ Educational quizzes  

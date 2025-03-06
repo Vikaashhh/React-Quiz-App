@@ -1,12 +1,46 @@
-# React + Vite
+# 📝 React Quiz App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **dynamic quiz application** built using **React.js**. This app allows users to **answer multiple-choice questions** and provides instant feedback on their selection.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
+- ✅ **Multiple-choice questions** with interactive UI.  
+- 🔴🟢 **Real-time feedback** – Correct answers highlighted in green, incorrect ones in red.  
+- 🎯 **User-friendly design** – Simple and clean layout for better readability.  
+- ⚡ **Next question navigation** with a "Proceed to Next" button.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ How It Works  
+1. **Read the question** displayed at the top.  
+2. **Click on an answer** to make a selection.  
+3. ✅ **Correct answers turn green** | ❌ **Wrong answers turn red**.  
+4. 🔄 Click **"Proceed to Next"** to move to the next question.  
 
-## Expanding the ESLint configuration
+## 📷 Preview  
+![Quiz App Preview](./image.png)  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖥️ Tech Stack  
+- **React.js** – Frontend framework for dynamic UI.  
+- **CSS** – Styled components for a sleek dark theme.  
+
+## 📌 Use Cases  
+✅ Educational quizzes  
+✅ Interview practice  
+✅ Trivia games  
+✅ Self-assessment tests  
+
+## 🚀 How to Run the Project  
+```sh
+# Clone the repository
+git clone https://github.com/your-repo/react-quiz-app.git
+cd react-quiz-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+# Open in browser
+http://localhost:3000
+```
+
+## Made with ❤️ by Vikash 🚀
